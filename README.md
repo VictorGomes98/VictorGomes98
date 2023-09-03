@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Victor Gomes from Brazilband
+- 👋 Hi, I’m Victor Gomes from Brazil.
 - 👀 I’m interested in back-end Coding.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on Java projects.
