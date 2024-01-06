@@ -1,12 +1,12 @@
    <h2>👋 Hello, World!</h2>
    
-  <h3>Back-end Developer - Java, Spring Boot, T-SQL</h3>
+  <h3>Back-end Developer - Java, Spring Boot, SQL Server</h3>
 Welcome to my GitHub repository! Here you will find projects related to my work and studies as a back-end developer.<br><br>
 
 Skills and Technologies<br>
 Languages:<br>
 Java <!--<imgsrc="/img/java-logo-1.png" width="200">--><br>
-T-SQL<br>
+Transact-SQL<br>
 <br>
 Frameworks:<br>
 Spring Boot<br><br>
